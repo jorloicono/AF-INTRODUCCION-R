@@ -2,8 +2,8 @@
 
 1. Introducción: ¿Qué es R y para qué es usado?
 
-    1.1 Un poco de historia
-    1.2 ¿Quién usa R?
+    1.1. Un poco de historia
+    1.2. ¿Quién usa R?
 
 2. Instalación
 
