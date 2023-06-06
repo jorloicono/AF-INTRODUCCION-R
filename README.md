@@ -88,7 +88,6 @@
 
 12. Libreria dplyr
 
-    -1 dplyr basics
     - Principales funciones de dplyr
     - filter()
     - arrange()
